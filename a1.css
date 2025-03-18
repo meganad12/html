@@ -1,0 +1,75 @@
+
+.nav1{
+    background-color: black;
+    color:white;
+    text-align: right;
+    padding:40px;
+    padding-bottom:10px;
+    
+}
+#b1:hover{
+   background-color: rgb(226, 203, 203);
+}
+#b1{
+    background-color: black;
+    border: NONE;
+    color: rgb(255, 255, 255);
+   font-size:medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor:pointer;
+    transition: transform 0.3s ease-in-out;
+    
+
+}
+.q1{
+    margin-top: 30px;
+    margin-bottom: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.q2{
+    margin-bottom:250px;
+    
+}
+#b2{
+    border:none;
+    background-color: beige;
+    cursor: pointer;
+    font-size: medium;
+    box-shadow: black;
+}
+#b2:hover{
+    background-color:rgb(91, 172, 161)
+}
+
+.f1{
+    background-color: black;
+    color: azure;
+    padding:10px;
+    font-size:20px;
+    
+}
+.p1{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    justify-content: center; 
+    padding: 20px; 
+    margin: 0 auto;
+}
+.f2{
+    background-color: aliceblue;
+    margin-bottom: 0px;
+    text-align: center;
+    padding: 50px;
+    font-size: larger;
+    text-justify: inter-word;
+}
+#d1{
+    background-color: black;
+    border: NONE;
+    color: azure;
+   font-size:medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor:pointer;
+    transition: transform 0.3s ease-in-out;
+    margin:none;
+}
